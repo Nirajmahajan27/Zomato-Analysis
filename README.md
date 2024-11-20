@@ -43,3 +43,12 @@ Rating Metrics: City-wise breakdown of customer satisfaction levels.
 ![App Screenshot](https://github.com/Nirajmahajan27/Zomato-Analysis/blob/master/New%20folder/Screenshot%202024-11-19%20195326.png?raw=true)
 
 ![App Screeshot](https://github.com/Nirajmahajan27/Zomato-Analysis/blob/master/New%20folder/Screenshot%202024-11-19%20195355.png?raw=true)
+
+## Tools and Technologies
+Power BI: Used for designing the interactive dashboard and visualizations.
+
+DAX (Data Analysis Expressions): For custom measures and complex calculations.
+
+CSV Integration: To ingest and manage large datasets.
+
+Data Modeling: To optimize data relationships for efficient processing.
